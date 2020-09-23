@@ -8,3 +8,5 @@ lost information. A principled probabilistic inference is implemented to integra
 updating the posterior probability of the proposed model. The segmentation process is completed when the iterations converge. The proposed enhanced UMRF technique 
 which combines pixel-based, region-based and edge-based features achieved a higher skin lesion segmentation accuracy than MRF model which combines pixel-based and 
 region-based only.
+
+More details: https://link.springer.com/chapter/10.1007/978-3-030-05918-7_30
